@@ -1,3 +1,6 @@
 [submodule "C++"]
 	path = C++
 	url = git@github.com:chiku/bootstrap-cplusplus
+[submodule "C"]
+	path = C
+	url = git@github.com:chiku/bootstrap-c

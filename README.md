@@ -1,4 +1,5 @@
-[![Build Status](https://travis-ci.org/chiku/bootstrap-cplusplus.png)](https://travis-ci.org/chiku/bootstrap-cplusplus)
+C [![Build Status](https://travis-ci.org/chiku/bootstrap-c.png)](https://travis-ci.org/chiku/bootstrap-c)
+C++ [![Build Status](https://travis-ci.org/chiku/bootstrap-cplusplus.png)](https://travis-ci.org/chiku/bootstrap-cplusplus)
 
 bootstrap
 =========
